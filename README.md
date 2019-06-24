@@ -1,0 +1,1 @@
+A minimalistic implementation of a Self Driving Car from Nvidia's research paper : https://arxiv.org/pdf/1604.07316.pdf
