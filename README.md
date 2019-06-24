@@ -21,5 +21,6 @@ Use ``` python run_dataset.py ``` to run the model on the dataset
 
 <br><br>
 
+# Result
 
-
+The final result is a virtual simulation of the rotation of the steering wheel upon input feed from the front camera of the car
