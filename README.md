@@ -10,13 +10,16 @@ The Dataset can be downloaded from this link : https://drive.google.com/file/d/0
 
 Download the dataset and extract into the repository folder
 <br>
+<br>
 Use ``` python train.py ``` to train the model
+<br>
 <br>
 Use  ``` python run.py ``` to run the model on a live webcam feed
 <br>
+<br>
 Use ``` python run_dataset.py ``` to run the model on the dataset
 
-<br>
+<br><br>
 
 
 
